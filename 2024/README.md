@@ -1,0 +1,1 @@
+My submissions for the Code Golfing competition at [Researchable](https://researchable.nl). The goal is to write solutions to the [2024 Advent of Code problems](https://adventofcode.com/2024) in as few tokens as possible. The tokens are counted according to [maxverbeek/gocounter](https://github.com/maxverbeek/gocounter).
