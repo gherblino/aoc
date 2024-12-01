@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow directories to be traversed
+!*/
+
+# Allow specific file types and files
+!*.go
+!.gitignore
+!LICENSE
+!README.md
